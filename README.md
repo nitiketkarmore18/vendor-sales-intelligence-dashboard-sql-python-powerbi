@@ -279,18 +279,22 @@ The dashboards were designed following enterprise Business Intelligence standard
 # Dashboard Screenshots
 
 ## Executive Overview Dashboard
+<img width="1235" height="696" alt="Executive_Overview" src="https://github.com/user-attachments/assets/5ccf8c8b-9d3a-40c4-931e-33ab2a1d78ac" />
 
 ---
 
 ## Inventory Analysis Dashboard
+<img width="1227" height="690" alt="Inventory_Analysis" src="https://github.com/user-attachments/assets/f6d92ef8-a4fd-4be7-abb0-08dca7a91745" />
 
 ---
 
 ## Store Performance Dashboard
+<img width="1230" height="686" alt="Store_Performance" src="https://github.com/user-attachments/assets/54266252-16a2-47f2-97b2-b74338f490df" />
 
 ---
 
 ## Vendor Performance Dashboard
+<img width="1227" height="691" alt="Vendor_Performance" src="https://github.com/user-attachments/assets/d7f14665-41ed-400e-9925-d47febd6ee5a" />
 
 ---
 
