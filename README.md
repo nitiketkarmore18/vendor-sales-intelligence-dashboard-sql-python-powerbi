@@ -329,7 +329,6 @@ Vendor-Sales-Intelligence-Dashboard/
 │   └── vendor_sales_dashboard.pbix
 │
 ├── Dataset/
-|   ├── raw_data
 |   ├── cleaned_data
 |   └── sample_data   
 │
