@@ -327,11 +327,32 @@ Vendor-Sales-Intelligence-Dashboard/
 │
 ├── Dashboard/
 │   └── vendor_sales_dashboard.pbix
+|
+├── notebook/
+│   ├── Vendor_Sales_Intelligence_Dashboard.ipynb
+│   └── Vendor_Sales_Intelligence_Dashboard_ETL.ipynb
 │
 ├── Dataset/
-|   ├── cleaned_data
-|   └── sample_data   
-│
+|   ├── raw_data     
+|   |   ├─  sales.csv
+|   |   ├── begin_inventory.csv
+|   |   ├── end_inventory.csv
+|   |   ├── purchase.csv
+|   |   ├── purchase_prices.cs
+|   |   └── vendor_invoice.csv
+|   |
+│   └── cleaned_data/
+│   |   └── sales_cleaned.csv
+|   |
+|   └── sample_data/
+|       └── sample_sales_50k.csv
+| 
+├── exports/
+|   ├── product_summary.csv
+|   ├── inventory_summary.csv
+|   ├── store_summary.csv
+|   └── vendor_summary.csv
+|
 ├── SQL Queries/
 │   └── business_queries.sql
 │
@@ -339,14 +360,12 @@ Vendor-Sales-Intelligence-Dashboard/
 │   ├── executive_overview.png
 │   ├── inventory_analysis.png
 │   ├── store_performance.png
-│   └── vendor_performance.png
-│
-├── Architecture/
-│   ├── system_architecture.png
-│   └── dashboard_architecture.png
+│   ├── vendor_performance.png 
+|   ├── system_architecture.png
+|   └── dashboard_architecture.png
 │
 ├── Report/
-│   └── Vendor_Sales_Intelligence_Report.pdf
+│   └── vendor_sales_analytics_dshboard_reort.pdf
 │
 └── README.md
 ```
