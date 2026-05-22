@@ -1,4 +1,4 @@
-# Vendor Sales Intelligence Dashboard
+# Vendor Performance Intelligence Analytics
 
 Enterprise-grade Business Intelligence & Analytics solution designed to optimize vendor performance monitoring, inventory visibility, operational reporting, and executive decision-making using Power BI, Python, SQL, and advanced data analytics workflows.
 
@@ -323,14 +323,14 @@ Business Insight Generation
 # Folder Structure
 
 ```text
-Vendor-Sales-Intelligence-Dashboard/
+Vendor-Performance-Intelligence-Analytics/
 │
 ├── Dashboard/
-│   └── vendor_sales_dashboard.pbix
+│   └── vendor_performance_intelligence_analytics.pbix
 |
 ├── notebook/
-│   ├── Vendor_Sales_Intelligence_Dashboard.ipynb
-│   └── Vendor_Sales_Intelligence_Dashboard_ETL.ipynb
+│   ├── vendor_performance_intelligence_analytics.ipynb
+│   └── vendor_performance_intelligence_analitics_ETL.ipynb
 │
 ├── Dataset/
 |   ├── raw_data     
@@ -354,7 +354,7 @@ Vendor-Sales-Intelligence-Dashboard/
 |   └── vendor_summary.csv
 |
 ├── SQL Queries/
-│   └── business_queries.sql
+│   └── vendor_performance_intelligence_analytics_business_queries.sql
 │
 ├── Screenshots/
 │   ├── executive_overview.png
@@ -365,7 +365,7 @@ Vendor-Sales-Intelligence-Dashboard/
 |   └── dashboard_architecture.png
 │
 ├── Report/
-│   └── vendor_sales_analytics_dshboard_reort.pdf
+│   └── vendor_performance_intelligence_analytics_reort.pdf
 │
 └── README.md
 ```
